@@ -61,6 +61,15 @@ Provides access to a range of health topics and related information for users.
 **HEALTHBOT**
 <img width="959" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/1b8928a9-e19e-4790-b688-38b193092d3d">
 
+# AZURE PORTAL SCREENSHOT
+
+**RESOURCES GROUP & RESOURCES** :
+<img width="960" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/c84fe3d0-b5e7-44c8-9c41-732716069a44">
+
+**AZURE STATIC WEBAPP**( URL : https://delightful-island-010cf310f.5.azurestaticapps.net/ )
+<img width="959" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/a2fa5db5-34e4-4fad-9b74-f8a04ff7dce1">
+
+
 
 ## Tech Stack 💻
 
