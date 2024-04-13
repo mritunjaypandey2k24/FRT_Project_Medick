@@ -1,4 +1,4 @@
-# Medick : Integrated HealthBot and Appointment Booking System for Remote Healthcare
+# Medick : Integrated HealthBot and Appointment Booking System for Remote Healthcare by Mritunjay Pandey
 The Integrated HealthBot and Appointment Booking System project aims to address the challenges of remote healthcare by developing a comprehensive platform 
 that combines a user-friendly appointment booking system with an AI-powered healthbot. The platform will allow patients to schedule appointments with
 healthcare providers easily while also providing personalized health assistance and remote monitoring capabilities through a virtual health assistant.
@@ -26,34 +26,45 @@ Incorporates various graphical and visual enhancements for an engaging experienc
 
 Presents an aesthetically pleasing visual layout and structure.
 
-Comprises multiple web pages including Home (featuring Appointment Booking), About, Contact, and Health Bot.
+Comprises multiple web pages including Home (featuring Appointment Booking), About, Department, Contact, and Health Bot, Search.
+
+Option for Bright or Dark mode.
 
 Provides access to a range of health topics and related information for users. 
 
 
 ## Screenshots
 
-![screenshot-home](https://github.com/AnushaPalukuri/project/assets/113781882/86eaaf5a-ce4a-440b-b9e0-0d9f637df1a4)
+**HOMEPAGE** :
 
-## Services-
+<img width="959" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/ad399eb0-a9db-49f2-a878-5e7c52ef7f5b">
 
-![Screenshot -services](https://github.com/AnushaPalukuri/project/assets/113781882/6c685468-1f4d-41ef-adc3-b94b0592aa96)
 
-## Health bot-
+**APPOINTMENT BOOKING SYSTEM** :
 
-![Screenshot -healthbot](https://github.com/AnushaPalukuri/project/assets/113781882/6f7eec64-30e1-4fce-866f-ee26970575e1)
+<img width="956" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/80f3e7bb-c458-49e7-90e4-1be956762d41">
 
-##  Contact us-
 
-![Screenshot -contact](https://github.com/AnushaPalukuri/project/assets/113781882/cfda0771-5213-44c7-8486-f76848738984)
+**ABOUT** :
 
-## About Us -
+<img width="959" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/04afbeeb-cbd5-4ce6-abdc-fdfb7326f3c9">
 
-![Screenshot -about](https://github.com/AnushaPalukuri/project/assets/113781882/836bb5c8-987e-47a4-ade8-017c4a9ba3f9)
+**DEPARTMENT** :
+
+<img width="959" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/1c068c83-f5fb-42c6-a6b6-9893818d716f">
+
+
+**CONTACTS** :
+
+<img width="956" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/3858dfa5-daae-42ca-ba4e-32a25a30a0bc">
+
+**HEALTHBOT**
+<img width="959" alt="image" src="https://github.com/mritunjaypandey2k24/FRT_Project_Medick/assets/159616921/1b8928a9-e19e-4790-b688-38b193092d3d">
+
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)
+- Azure Hosting, Storage, Health Bot Service
 - HTML
 - CSS
 - Bootstrap
