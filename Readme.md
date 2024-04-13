@@ -21,9 +21,13 @@ healthcare providers easily while also providing personalized health assistance 
 
 ## Features and Functionalities 😃
 User-friendly and responsive UI design.
+
 Incorporates various graphical and visual enhancements for an engaging experience.
+
 Presents an aesthetically pleasing visual layout and structure.
+
 Comprises multiple web pages including Home (featuring Appointment Booking), About, Contact, and Health Bot.
+
 Provides access to a range of health topics and related information for users. 
 
 
