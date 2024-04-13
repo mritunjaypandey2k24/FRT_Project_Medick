@@ -10,7 +10,7 @@ healthcare providers easily while also providing personalized health assistance 
 
 **Project Link** - https://delightful-island-010cf310f.5.azurestaticapps.net/  
 
-**Project demo video link**-   
+**Project demo video link**-  https://youtu.be/Myw5XEeqBdg 
 
 
 ## Azure Technologies used for Project  
