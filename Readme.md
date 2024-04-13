@@ -20,13 +20,11 @@ healthcare providers easily while also providing personalized health assistance 
 **Azure Bot Service**: Powers the AI-driven healthbot, enabling natural language interaction for patients to ask questions, receive personalized recommendations, and track symptoms remotely. Seamless integration with the appointment booking system enhances platform functionalities.
 
 ## Features and Functionalities 😃
-
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+User-friendly and responsive UI design.
+Incorporates various graphical and visual enhancements for an engaging experience.
+Presents an aesthetically pleasing visual layout and structure.
+Comprises multiple web pages including Home (featuring Appointment Booking), About, Contact, and Health Bot.
+Provides access to a range of health topics and related information for users. 
 
 
 ## Screenshots
