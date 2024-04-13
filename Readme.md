@@ -11,13 +11,13 @@ healthcare providers easily while also providing personalized health assistance 
 
 ## Azure Technologies used for Project
  
-Core Azure Services:
-Azure Static Web Apps: Hosts the frontend components of the integrated platform, ensuring scalability and reliability through seamless deployment from GitHub repositories.
+### Core Azure Services:
+**Azure Static Web Apps**: Hosts the frontend components of the integrated platform, ensuring scalability and reliability through seamless deployment from GitHub repositories.
 
-Azure Blob Storage: Manages data assets such as patient records and appointment schedules, providing secure and cost-effective storage solutions with easy access for patients and healthcare providers.
+**Azure Blob Storage**: Manages data assets such as patient records and appointment schedules, providing secure and cost-effective storage solutions with easy access for patients and healthcare providers.
 
-Azure AI Service:
-Azure Bot Service: Powers the AI-driven healthbot, enabling natural language interaction for patients to ask questions, receive personalized recommendations, and track symptoms remotely. Seamless integration with the appointment booking system enhances platform functionalities.
+### Azure AI Service:
+**Azure Bot Service**: Powers the AI-driven healthbot, enabling natural language interaction for patients to ask questions, receive personalized recommendations, and track symptoms remotely. Seamless integration with the appointment booking system enhances platform functionalities.
 
 ## Features and Functionalities 😃
 
