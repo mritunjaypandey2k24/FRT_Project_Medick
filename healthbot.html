@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Health Bot</title>
+     <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="keywords"
+    content="Medick Responsive web template, Bootstrap Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+  <title>Medick Medical Category Bootstrap Responsive Web Template | Home :: W3Layouts </title>
+  <link href="//fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+  <!-- Template CSS -->
+  <link rel="stylesheet" href="assets/css/style-starter.css">
+    <!-- Include necessary libraries and scripts -->
+    <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+</head>
+<div class="col-lg-7 w3l-content-right pl-lg-5 mt-lg-4"></div>
+<body>
+    <div class="header-w3l">
+        <!--header-->
+        <header id="site-header" class="header-w3l fixed-top">
+          <div class="container">
+            <nav class="navbar navbar-expand-lg stroke">
+              <a class="navbar-brand" href="index.html">
+               Med<span class="sub-logo">i</span>ck</span>
+              </a>
+              <!-- if logo is image enable this   
+                  <a class="navbar-brand" href="#index.html">
+                      <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+                  </a> -->
+              <button class="navbar-toggler  collapsed bg-gradient" type="button" data-toggle="collapse"
+                data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
+                <span class="navbar-toggler-icon fa icon-close fa-times"></span>
+                </span>
+              </button>
+      
+              <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+                <ul class="navbar-nav mx-lg-auto">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="about.html">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="services.html">Departments</a>
+                  </li>
+                  
+                  <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="healthbot.html">HealthBot</a>
+                  </li>
+                  <li class="search-bar ml-lg-3 mr-lg-5 mt-lg-0 mt-4">
+                    <!--/search-right-->
+                    <form class="search position-relative">
+                      <input type="search" class="search__input" name="search" placeholder="Search here.."
+                        onload="equalWidth()" required="">
+                      <span class="fa fa-search search__icon"></span>
+                    </form>
+      
+                    <!--//search-right-->
+                  </li>
+      
+                </ul>
+      
+              </div>
+              <!-- toggle switch for light and dark theme -->
+              <div class="mobile-position">
+                <nav class="navigation">
+                  <div class="theme-switch-wrapper">
+                    <label class="theme-switch" for="checkbox">
+                      <input type="checkbox" id="checkbox">
+                      <div class="mode-container">
+                        <i class="gg-sun"></i>
+                        <i class="gg-moon"></i>
+                      </div>
+                    </label>
+                  </div>
+                </nav>
+              </div>
+              <!-- //toggle switch for light and dark theme -->
+            </nav>
+          </div>
+        </header>
+      </div>
+        <!-- //header -->
+        <!--/w3l-banner-content-->
+        <div class="banner-w3l-main">
+          <div class="w3l-banner-content">
+            <div class="container">
+              <div class="bannerhny-info text-center">
+                <h3 class="title-subhny mb-2">Health Bot</h3>
+                
+
+
+
+    <!-- Embed the Health Bot web chat interface -->
+    <div id="webchat" role="main"></div>
+    <script>
+        // Define the Web Chat secret obtained from your Health Bot configuration
+        const webChatSecret = "dzuA2FepqJM.-GcYQy81lNzjIlRinPW8AipjxQB55V1Oxz5Y4i4Ckz8";
+
+        // Render the Health Bot web chat interface
+        window.WebChat.renderWebChat(
+            {
+                // Configure Direct Line with the Web Chat secret
+                directLine: window.WebChat.createDirectLine({ token: webChatSecret }),
+                // Customize user ID, username, locale, and style options as needed
+                userID: 'YOUR_USER_ID',
+                username: 'YOUR_USERNAME',
+                locale: 'en-US',
+                styleOptions: {
+                  bubbleBackground: '#000000',
+                bubbleFromUserBackground: '#000000',
+                bubbleTextColor: '#000000', // Set text color to black for bot messages
+                bubbleFromUserTextColor: '#000000', // Set text color to black for user messages
+                backgroundColor: '#FFFFFF', // Set background color of the chat window to white
+                accent: '#000000' // Set accent color (e.g., timestamp color) to black
+                }
+            },
+            document.getElementById('webchat') // Render web chat interface in the specified element
+        );
+    </script>
+</body>
+</html>
