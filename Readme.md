@@ -2,7 +2,7 @@
 The Integrated HealthBot and Appointment Booking System project aims to address the challenges of remote healthcare by developing a comprehensive platform 
 that combines a user-friendly appointment booking system with an AI-powered healthbot. The platform will allow patients to schedule appointments with
 healthcare providers easily while also providing personalized health assistance and remote monitoring capabilities through a virtual health assistant.
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This integrated healthcare platform is developed as part of the Future Ready Talent Internship program, a collaboration between Microsoft, Future Skills Prime, Quess, Github, and EY, aimed at fostering innovation in remote healthcare solutions.
 
 
 **Project Link** - https://agreeable-coast-01f0bf600.3.azurestaticapps.net  
