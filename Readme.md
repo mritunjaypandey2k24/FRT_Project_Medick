@@ -5,9 +5,8 @@ healthcare providers easily while also providing personalized health assistance 
 ### This integrated healthcare platform is developed as part of the Future Ready Talent Internship program, a collaboration between Microsoft, Future Skills Prime, Quess, Github, and EY, aimed at fostering innovation in remote healthcare solutions.
 
 
-**Project Link** - https://agreeable-coast-01f0bf600.3.azurestaticapps.net](https://delightful-island-010cf310f.5.azurestaticapps.net/
-**Project demo video link**- https://youtu.be/dIiU6YZk9Ds
-
+**Project Link** - https://delightful-island-010cf310f.5.azurestaticapps.net/
+**Project demo video link**- 
 ## Azure Technologies used for Project
  
  - Static web Apps
